@@ -8,7 +8,7 @@ Hacker Man is a fun, fictional project simulating a "hacking" experience. The in
     3.  Click the "Hack" button to start the simulation.
     4.  Watch as the "hacking" process unfolds in real-time on the screen.
 
-Click [here](https://rakesh-roy-65.github.io/Hacker-Man/) to view and interact with the Hacker Man project live!
+Click [here](https://rakeshroy007.github.io/Hacker-Man/) to view and interact with the Hacker Man project live!
 
 ## Disclaimer
 This project is purely for fun purposes. It does not perform any real hacking activities and should not be used with malicious intent.
